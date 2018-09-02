@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../leetcode/src/main/java/Solution.java" line="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d23a37ac-243f-47cc-b845-018f560e51b8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-parent/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast-rabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-common/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-manage/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-manage-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/../itcastusermanage/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast-usermanage/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-manage/taotao-manage-web/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-manage/taotao-manage-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-manage/taotao-manage-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-manage/taotao-manage-service/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-web/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast-httpclient/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-sso/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-order/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-search/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-cart/target/" />
+    <ignored path="$PROJECT_DIR$/../opensesame/target/" />
+    <ignored path="$PROJECT_DIR$/../hessian-lite/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-simple/dubbo-registry-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-http/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-container/dubbo-container-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-default/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-config/dubbo-config-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-config/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-config/dubbo-config-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-test/dubbo-test-compatibility/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-test/dubbo-test-benchmark/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-demo/dubbo-demo-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-container/dubbo-container-log4j/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-test/dubbo-test-integration/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-simple/dubbo-monitor-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-registry/dubbo-registry-default/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-memcached/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-rmi/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-remoting/dubbo-remoting-http/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-common/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-demo/dubbo-demo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-filter/dubbo-filter-validation/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-remoting/dubbo-remoting-netty/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-remoting/dubbo-remoting-mina/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-admin/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-demo/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-container/dubbo-container-logback/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-filter/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-registry/dubbo-registry-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-thrift/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-monitor/dubbo-monitor-default/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-container/dubbo-container-jetty/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-remoting/dubbo-remoting-grizzly/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-monitor/dubbo-monitor-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-remoting/dubbo-remoting-p2p/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-registry/dubbo-registry-multicast/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-registry/dubbo-registry-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-remoting/dubbo-remoting-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-registry/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-filter/dubbo-filter-cache/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-demo/dubbo-demo-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-test/dubbo-test-examples/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-remoting/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-remoting/dubbo-remoting-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-container/dubbo-container-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-test/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-registry/dubbo-registry-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-hessian/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-cluster/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-container/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-rpc/dubbo-rpc-injvm/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-test/dubbo-test-benchmark/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-remoting/dubbo-remoting-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-registry/dubbo-registry-default/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-plugin/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-admin/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-monitor/dubbo-monitor-default/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-registry/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-remoting/dubbo-remoting-netty4/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-test/dubbo-test-integration/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-simple/dubbo-registry-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-demo/dubbo-demo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-demo/dubbo-demo-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-demo/dubbo-demo-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-container/dubbo-container-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-remoting/dubbo-remoting-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-cluster/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-registry/dubbo-registry-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-container/dubbo-container-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-container/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-filter/dubbo-filter-validation/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-remoting/dubbo-remoting-p2p/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-test/dubbo-test-examples/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/hessian-lite/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-registry/dubbo-registry-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-config/dubbo-config-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-test/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-container/dubbo-container-logback/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-common/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-injvm/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-memcached/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-plugin/dubbo-qos/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-remoting/dubbo-remoting-grizzly/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-simple/dubbo-monitor-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-test/dubbo-test-compatibility/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-http/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-container/dubbo-container-jetty/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-config/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-container/dubbo-container-log4j/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-remoting/dubbo-remoting-netty/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-demo/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-remoting/dubbo-remoting-mina/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-thrift/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-hessian/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-filter/dubbo-filter-cache/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-default/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-test/dubbo-test-compatibility/dubbo-test-spring3/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-rpc/dubbo-rpc-rmi/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-registry/dubbo-registry-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-registry/dubbo-registry-multicast/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-remoting/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-monitor/dubbo-monitor-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-config/dubbo-config-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-filter/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo 2.5.8/dubbo-remoting/dubbo-remoting-http/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-test/dubbo-test-integration/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-remoting/dubbo-remoting-api/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-api/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-test/dubbo-test-benchmark/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-monitor/dubbo-monitor-api/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-filter/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-admin/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-rmi/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-registry/dubbo-registry-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-thrift/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-simple/dubbo-monitor-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-remoting/dubbo-remoting-p2p/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-test/dubbo-test-compatibility/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-filter/dubbo-filter-validation/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-memcached/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-remoting/dubbo-remoting-grizzly/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-registry/dubbo-registry-default/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-config/dubbo-config-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-registry/dubbo-registry-api/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-config/dubbo-config-api/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-registry/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-container/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-container/dubbo-container-log4j/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-remoting/dubbo-remoting-http/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-container/dubbo-container-api/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-container/dubbo-container-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-container/dubbo-container-logback/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-test/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-remoting/dubbo-remoting-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-plugin/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-remoting/dubbo-remoting-netty4/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-demo/dubbo-demo-api/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-remoting/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-cluster/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/hessian-lite/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-demo/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-http/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-remoting/dubbo-remoting-mina/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-remoting/dubbo-remoting-netty/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-registry/dubbo-registry-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-common/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-simple/dubbo-registry-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-filter/dubbo-filter-cache/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-default/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-config/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-registry/dubbo-registry-multicast/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-test/dubbo-test-compatibility/dubbo-test-spring3/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-demo/dubbo-demo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-plugin/dubbo-qos/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-demo/dubbo-demo-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-hessian/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-test/dubbo-test-examples/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-monitor/dubbo-monitor-default/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-container/dubbo-container-jetty/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo-rpc/dubbo-rpc-injvm/target/" />
+    <ignored path="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8/dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-b/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-b-api/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo-a/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-sso-query-api/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-sso-query-service/target/" />
+    <ignored path="$PROJECT_DIR$/../taotao-cart-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/../leetcode/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="IsSubsequence.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/IsSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="e#2640#2641#0" expanded="true" />
+                <element signature="e#2699#2700#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContentCategoryMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-mapper/src/main/java/com/taotao/manage/mapper/ContentCategoryMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>client</find>
+      <find>beanFactory</find>
+      <find>mapp</find>
+      <find>tableName</find>
+      <find>queryL</find>
+      <find>pojoResultMap</find>
+      <find>joda</find>
+      <find>tem</find>
+      <find>mapper</find>
+      <find>sendMsg</find>
+      <find>topic</find>
+      <find>itemDescService</find>
+      <find>itemMapper</find>
+      <find>super</find>
+      <find>staticUrl</find>
+      <find>dubbo-b-server</find>
+      <find>userService</find>
+      <find>2181</find>
+      <find>fail</find>
+      <find>registry</find>
+      <find>jdbc</find>
+      <find>amqp</find>
+      <find>tomcat</find>
+      <find>dubbo</find>
+      <find>du</find>
+      <find>confi</find>
+      <find>n</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/PicUploadController.java" />
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast-httpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-web/src/main/resources/spring/applicationContext-httpclient.xml" />
+        <option value="$PROJECT_DIR$/../taotao-common/src/main/java/com/taotao/common/service/ApiService.java" />
+        <option value="$PROJECT_DIR$/../itcast-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-common/src/main/java/com/taotao/common/service/Function.java" />
+        <option value="$PROJECT_DIR$/../taotao-common/src/main/java/com/taotao/common/service/RedisService.java" />
+        <option value="$PROJECT_DIR$/../taotao-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-order/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/../taotao-order/src/main/resources/mybatis/mappers/orderMapper.xml" />
+        <option value="$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/dao/OrderDAO.java" />
+        <option value="$PROJECT_DIR$/../taotao-web/src/main/java/com/taotao/web/interceptors/UserLoginHandlerInterceptor.java" />
+        <option value="$PROJECT_DIR$/../taotao-web/src/main/java/com/taotao/web/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/../taotao-web/src/main/java/com/taotao/web/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/../taotao-search/src/main/resources/solr.properties" />
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/resources/env.properties" />
+        <option value="$PROJECT_DIR$/../taotao-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-cart/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../taotao-cart/src/main/java/main/java/com/taotao/cart/bean/Item.java" />
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/datasource/DynamicDataSource.java" />
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/datasource/DataSourceAspect.java" />
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/resources/spring/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/resources/spring/applicationContext-transaction.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-b-api/src/main/java/cn/itcast/dubbo/pojo/User.java" />
+        <option value="$PROJECT_DIR$/../dubbo-b/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-b/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-a/src/test/java/cn/itcast/dubbo/service/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/../dubbo-a/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/../dubbo-b/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/../dubbo-b/src/main/resources/dubbo/dubbo-server.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-a/src/main/resources/dubbo/dubbo-consumer.xml" />
+        <option value="$PROJECT_DIR$/../taotao-sso-query-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-sso/src/main/java/com/taotao/sso/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/../taotao-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-web/src/main/resources/dubbo/dubbo-consumer.xml" />
+        <option value="$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/mybatis/MapperScannerConfig.java" />
+        <option value="$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/mybatis/MyBatisConfig.java" />
+        <option value="$PROJECT_DIR$/../taotao-cart-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/RedisSpringConfig.java" />
+        <option value="$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/HttpclientSpringConfig.java" />
+        <option value="$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/HttpClientSpringConfig.java" />
+        <option value="$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/SpringMVCConfig.java" />
+        <option value="$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/Main.java" />
+        <option value="$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/TaotaoApplication.java" />
+        <option value="$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/../leetcode/src/main/java/IsSubsequence.java" />
+        <option value="$PROJECT_DIR$/../leetcode/src/main/java/Solution.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="taotao-cart-springboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="448" />
+    <option name="y" value="23" />
+    <option name="width" value="1518" />
+    <option name="height" value="910" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="mappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../incubator-dubbo-dubbo-2.5.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MavenForItCast\taotao-manage\taotao-manage-web\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MavenForItCast\taotao-cart-springboot\src" />
+      <recent name="C:\MavenForItCast\taotao-cart-springboot" />
+      <recent name="C:\MavenForItCast\taotao-sso-query-service\src" />
+      <recent name="C:\MavenForItCast\taotao-sso-query-service" />
+      <recent name="C:\MavenForItCast\taotao-sso-query-api\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="DoGET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.httpclient.DoGET" />
+      <module name="itcast-httpclient" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.httpclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsSubsequence" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="UserServiceTest.testQueryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dubbo-a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.dubbo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.itcast.dubbo.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.dubbo.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testQueryAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="dubbo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="TaotaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="taotao-cart-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taotao.cart.spring.config.TaotaoApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.TaotaoApplication" />
+      <item itemvalue="Application.DoGET" />
+      <item itemvalue="JUnit.UserServiceTest.testQueryAll" />
+      <item itemvalue="Application.IsSubsequence" />
+      <item itemvalue="Application.Solution" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.IsSubsequence" />
+        <item itemvalue="JUnit.UserServiceTest.testQueryAll" />
+        <item itemvalue="Application.DoGET" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d23a37ac-243f-47cc-b845-018f560e51b8" name="Default" comment="" />
+      <created>1526633113609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526633113609</updated>
+      <workItem from="1526633115182" duration="1516000" />
+      <workItem from="1526635027301" duration="249000" />
+      <workItem from="1526635415393" duration="2787000" />
+      <workItem from="1526639198648" duration="4425000" />
+      <workItem from="1526645912273" duration="7665000" />
+      <workItem from="1526694968910" duration="19436000" />
+      <workItem from="1526731416139" duration="3912000" />
+      <workItem from="1526739649635" duration="1290000" />
+      <workItem from="1526796632526" duration="2582000" />
+      <workItem from="1526801259508" duration="7519000" />
+      <workItem from="1526868971485" duration="8802000" />
+      <workItem from="1526909690733" duration="137000" />
+      <workItem from="1526909832659" duration="2851000" />
+      <workItem from="1526955124053" duration="16178000" />
+      <workItem from="1527052714552" duration="6177000" />
+      <workItem from="1527131138288" duration="109000" />
+      <workItem from="1527135752291" duration="4803000" />
+      <workItem from="1527232320684" duration="1958000" />
+      <workItem from="1527234306220" duration="413000" />
+      <workItem from="1527234748187" duration="3572000" />
+      <workItem from="1528013851445" duration="537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceTest_testQueryAll - 2018.05.20 at 16h 51m 48s.xml">
+      <configuration name="UserServiceTest.testQueryAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testQueryAll - 2018.05.20 at 17h 06m 13s.xml">
+      <configuration name="UserServiceTest.testQueryAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testQueryAll - 2018.05.20 at 17h 45m 50s.xml">
+      <configuration name="UserServiceTest.testQueryAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testQueryAll - 2018.05.20 at 17h 45m 56s.xml">
+      <configuration name="UserServiceTest.testQueryAll" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="96918000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="448" y="23" width="1518" height="910" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.022633744" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.10493827" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37067938" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22015916" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28052127" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Messages" order="8" visible="true" weight="0.25666666" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-pojo/src/main/java/com/taotao/manage/pojo/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-639">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-web/src/main/resources/spring/applicationContext-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-pojo/src/main/java/com/taotao/manage/pojo/Content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-common/src/main/java/com/taotao/common/service/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-common/src/main/java/com/taotao/common/service/RedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/MapperScannerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/HttpClientSpringConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.2.RELEASE/spring-boot-autoconfigure-1.5.2.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/TaotaoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#775#788#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-cart-springboot/src/main/java/com/taotao/cart/spring/config/SpringMVCConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/dao/OrderDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-535">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/util/ValidateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/resources/spring/applicationContext-scheduler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/bean/OperaterEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/bean/TaotaoResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2548">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/bean/Where.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/job/PaymentOrderJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/dao/IOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/mapper/IMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/resources/mybatis/mappers/orderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="66" column="61" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-order/src/main/java/com/taotao/store/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE.jar!/org/springframework/http/ResponseEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/datasource/DynamicDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/datasource/DynamicDataSourceHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/datasource/DataSourceAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast-httpclient/src/main/java/cn/itcast/httpclient/DoPOSTParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast-httpclient/src/main/java/cn/itcast/httpclient/HttpConnectManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="473" column="11" selection-start-line="473" selection-start-column="11" selection-end-line="473" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="143" column="41" lean-forward="true" selection-start-line="143" selection-start-column="41" selection-end-line="143" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/AbstractSequentialList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="68" column="61" selection-start-line="68" selection-start-column="61" selection-end-line="68" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="70" column="60" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="60" column="57" lean-forward="true" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/resources/mybatis/mappers/ContentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-mapper/src/main/java/com/taotao/manage/mapper/ItemDescMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-mapper/src/main/java/com/taotao/manage/mapper/ItemCatMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-mapper/src/main/java/com/taotao/manage/mapper/ContentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-mapper/src/main/java/com/taotao/manage/mapper/ContentCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-web/src/main/resources/spring/applicationContext-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/IsSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#2640#2641#0" expanded="true" />
+            <element signature="e#2699#2700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>itcast-usermanage:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>taotao-sso-query-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-a" />
+        <module name="dubbo-b" />
+        <module name="dubbo-b-api" />
+        <module name="itcast-httpclient" />
+        <module name="itcast-rabbitmq" />
+        <module name="itcast-redis" />
+        <module name="itcast-usermanage" />
+        <module name="leetcode" />
+        <module name="taotao-cart" />
+        <module name="taotao-cart-springboot" />
+        <module name="taotao-common" />
+        <module name="taotao-manage-mapper" />
+        <module name="taotao-manage-pojo" />
+        <module name="taotao-manage-service" />
+        <module name="taotao-manage-web" />
+        <module name="taotao-order" />
+        <module name="taotao-search" />
+        <module name="taotao-sso" />
+        <module name="taotao-sso-query-api" />
+        <module name="taotao-sso-query-service" />
+        <module name="taotao-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo" target="1.6" />
+      <module name="dubbo (1)" target="1.6" />
+      <module name="dubbo-admin" target="1.6" />
+      <module name="dubbo-admin (1)" target="1.6" />
+      <module name="dubbo-cluster" target="1.6" />
+      <module name="dubbo-cluster (1)" target="1.6" />
+      <module name="dubbo-common" target="1.6" />
+      <module name="dubbo-common (1)" target="1.6" />
+      <module name="dubbo-config" target="1.6" />
+      <module name="dubbo-config (1)" target="1.6" />
+      <module name="dubbo-config-api" target="1.6" />
+      <module name="dubbo-config-api (1)" target="1.6" />
+      <module name="dubbo-config-spring" target="1.6" />
+      <module name="dubbo-config-spring (1)" target="1.6" />
+      <module name="dubbo-container" target="1.6" />
+      <module name="dubbo-container (1)" target="1.6" />
+      <module name="dubbo-container-api" target="1.6" />
+      <module name="dubbo-container-api (1)" target="1.6" />
+      <module name="dubbo-container-jetty" target="1.6" />
+      <module name="dubbo-container-jetty (1)" target="1.6" />
+      <module name="dubbo-container-log4j" target="1.6" />
+      <module name="dubbo-container-log4j (1)" target="1.6" />
+      <module name="dubbo-container-logback" target="1.6" />
+      <module name="dubbo-container-logback (1)" target="1.6" />
+      <module name="dubbo-container-spring" target="1.6" />
+      <module name="dubbo-container-spring (1)" target="1.6" />
+      <module name="dubbo-demo" target="1.6" />
+      <module name="dubbo-demo (1)" target="1.6" />
+      <module name="dubbo-demo-api" target="1.6" />
+      <module name="dubbo-demo-api (1)" target="1.6" />
+      <module name="dubbo-demo-consumer" target="1.6" />
+      <module name="dubbo-demo-consumer (1)" target="1.6" />
+      <module name="dubbo-demo-provider" target="1.6" />
+      <module name="dubbo-demo-provider (1)" target="1.6" />
+      <module name="dubbo-filter" target="1.6" />
+      <module name="dubbo-filter (1)" target="1.6" />
+      <module name="dubbo-filter-cache" target="1.6" />
+      <module name="dubbo-filter-cache (1)" target="1.6" />
+      <module name="dubbo-filter-validation" target="1.6" />
+      <module name="dubbo-filter-validation (1)" target="1.6" />
+      <module name="dubbo-monitor" target="1.6" />
+      <module name="dubbo-monitor (1)" target="1.6" />
+      <module name="dubbo-monitor-api" target="1.6" />
+      <module name="dubbo-monitor-api (1)" target="1.6" />
+      <module name="dubbo-monitor-default" target="1.6" />
+      <module name="dubbo-monitor-default (1)" target="1.6" />
+      <module name="dubbo-monitor-simple" target="1.6" />
+      <module name="dubbo-monitor-simple (1)" target="1.6" />
+      <module name="dubbo-parent" target="1.6" />
+      <module name="dubbo-parent (1)" target="1.6" />
+      <module name="dubbo-plugin" target="1.6" />
+      <module name="dubbo-qos" target="1.6" />
+      <module name="dubbo-registry" target="1.6" />
+      <module name="dubbo-registry (1)" target="1.6" />
+      <module name="dubbo-registry-api" target="1.6" />
+      <module name="dubbo-registry-api (1)" target="1.6" />
+      <module name="dubbo-registry-default" target="1.6" />
+      <module name="dubbo-registry-default (1)" target="1.6" />
+      <module name="dubbo-registry-multicast" target="1.6" />
+      <module name="dubbo-registry-multicast (1)" target="1.6" />
+      <module name="dubbo-registry-redis" target="1.6" />
+      <module name="dubbo-registry-redis (1)" target="1.6" />
+      <module name="dubbo-registry-simple" target="1.6" />
+      <module name="dubbo-registry-simple (1)" target="1.6" />
+      <module name="dubbo-registry-zookeeper" target="1.6" />
+      <module name="dubbo-registry-zookeeper (1)" target="1.6" />
+      <module name="dubbo-remoting" target="1.6" />
+      <module name="dubbo-remoting (1)" target="1.6" />
+      <module name="dubbo-remoting-api" target="1.6" />
+      <module name="dubbo-remoting-api (1)" target="1.6" />
+      <module name="dubbo-remoting-grizzly" target="1.6" />
+      <module name="dubbo-remoting-grizzly (1)" target="1.6" />
+      <module name="dubbo-remoting-http" target="1.6" />
+      <module name="dubbo-remoting-http (1)" target="1.6" />
+      <module name="dubbo-remoting-mina" target="1.6" />
+      <module name="dubbo-remoting-mina (1)" target="1.6" />
+      <module name="dubbo-remoting-netty" target="1.6" />
+      <module name="dubbo-remoting-netty (1)" target="1.6" />
+      <module name="dubbo-remoting-netty4" target="1.6" />
+      <module name="dubbo-remoting-p2p" target="1.6" />
+      <module name="dubbo-remoting-p2p (1)" target="1.6" />
+      <module name="dubbo-remoting-zookeeper" target="1.6" />
+      <module name="dubbo-remoting-zookeeper (1)" target="1.6" />
+      <module name="dubbo-rpc" target="1.6" />
+      <module name="dubbo-rpc (1)" target="1.6" />
+      <module name="dubbo-rpc-api" target="1.6" />
+      <module name="dubbo-rpc-api (1)" target="1.6" />
+      <module name="dubbo-rpc-default" target="1.6" />
+      <module name="dubbo-rpc-default (1)" target="1.6" />
+      <module name="dubbo-rpc-hessian" target="1.6" />
+      <module name="dubbo-rpc-hessian (1)" target="1.6" />
+      <module name="dubbo-rpc-http" target="1.6" />
+      <module name="dubbo-rpc-http (1)" target="1.6" />
+      <module name="dubbo-rpc-injvm" target="1.6" />
+      <module name="dubbo-rpc-injvm (1)" target="1.6" />
+      <module name="dubbo-rpc-memcached" target="1.6" />
+      <module name="dubbo-rpc-memcached (1)" target="1.6" />
+      <module name="dubbo-rpc-redis" target="1.6" />
+      <module name="dubbo-rpc-redis (1)" target="1.6" />
+      <module name="dubbo-rpc-rmi" target="1.6" />
+      <module name="dubbo-rpc-rmi (1)" target="1.6" />
+      <module name="dubbo-rpc-thrift" target="1.6" />
+      <module name="dubbo-rpc-thrift (1)" target="1.6" />
+      <module name="dubbo-rpc-webservice" target="1.6" />
+      <module name="dubbo-rpc-webservice (1)" target="1.6" />
+      <module name="dubbo-simple" target="1.6" />
+      <module name="dubbo-simple (1)" target="1.6" />
+      <module name="dubbo-test" target="1.6" />
+      <module name="dubbo-test (1)" target="1.6" />
+      <module name="dubbo-test-benchmark" target="1.6" />
+      <module name="dubbo-test-benchmark (1)" target="1.6" />
+      <module name="dubbo-test-compatibility" target="1.6" />
+      <module name="dubbo-test-compatibility (1)" target="1.6" />
+      <module name="dubbo-test-examples" target="1.6" />
+      <module name="dubbo-test-examples (1)" target="1.6" />
+      <module name="dubbo-test-integration" target="1.6" />
+      <module name="dubbo-test-integration (1)" target="1.6" />
+      <module name="dubbo-test-spring3" target="1.6" />
+      <module name="hessian-lite" target="1.5" />
+      <module name="hessian-lite (1)" target="1.6" />
+      <module name="itcastusermanage" target="1.7" />
+      <module name="opensesame" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
